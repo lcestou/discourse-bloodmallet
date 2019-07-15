@@ -1,7 +1,0 @@
-host_url:
-  type: string
-  default: ''
-  description: Host URL without http:// or without https://
-website_id:
-  type: string
-  default: ''
